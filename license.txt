@@ -1,5 +1,5 @@
-FMPress Forms (C) 2021-2022 Emic Corporation
-FMPress Forms is distributed under the terms of the GNU GPL
+NextPage Link (C) 2021-2022 Newsfront Corporation
+NextPage Link is distributed under the terms of the GNU GPL
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

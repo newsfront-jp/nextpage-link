@@ -1,4 +1,4 @@
-=== FMPress Forms ===
+=== NextPage Link ===
 Contributors: newsfront, nue2501
 Tags: pagination, nextpage, shortcode
 Requires at least: 5.7
