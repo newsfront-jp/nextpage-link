@@ -37,19 +37,19 @@ Support for id, type, layout, in_same_term, excluded_terms, previous, taxonomy a
 
 Example:
 
-`[nextpage_link type="pagination"]H2 text on the next page[/nextpage_link]
-    => Link to the next page separated by <! --nextpage-->
-    => Default if type is not specified
+`[nextpage_link type="pagination"]H2 text on the next page[/nextpage_link]`
+Link to the next page separated by <! --nextpage-->
+Default if type is not specified
 
-[nextpage_link id="1234"]Link Text[/nextpage_link]
-    => Link post ID 1234
+`[nextpage_link id="1234"]Link Text[/nextpage_link]`
+Link post ID 1234
 
-[nextpage_link type="nextpost"]Link Text[/nextpage_link]
-    => Link to adjacent post
+`[nextpage_link type="nextpost"]Link Text[/nextpage_link]`
+Link to adjacent post
 
-[nextpage_link prefix="Next page: "]Link Text[/nextpage_link]
-    => Output is Next page: <a href="#">Lint Text</a>
-    => Default is "Next:"`
+`[nextpage_link prefix="Next page: "]Link Text[/nextpage_link]`
+Output is Next page: <a href="#">Lint Text</a>
+Default is "Next:"
 
 = Can the layout be changed? =
 
@@ -75,12 +75,12 @@ These parameters are passed to get_adjacent_post().
 = 1.0.1 =
 Release Date: September 12, 2022
 
-*Fixed typo
+* Fixed typo
 
 = 1.0.0 =
 Release Date: September 12, 2022
 
-*Plugin Released
+* Plugin Released
 
 = 0.9 =
 * First version (Unreleased)
