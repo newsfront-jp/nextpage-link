@@ -72,5 +72,10 @@ These parameters are passed to get_adjacent_post().
 
 == Changelog ==
 
+= 1.0.0 =
+Release Date: September 12, 2022
+
+*Plugin Released
+
 = 0.9 =
 * First version (Unreleased)
