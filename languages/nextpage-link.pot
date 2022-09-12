@@ -1,0 +1,52 @@
+# Copyright (C) 2022 Newsfront Corporation
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nextpage Link 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nextpage-link\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-10T19:05:01+09:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: nextpage-link\n"
+
+#. Plugin Name of the plugin
+msgid "Nextpage Link"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.newsfront.jp/wordpress/plugins/nextpage-link/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A link to the next page can be displayed using a shortcode."
+msgstr ""
+
+#. Author of the plugin
+msgid "Newsfront Corporation"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.newsfront.jp"
+msgstr ""
+
+#: nextpage-link.php:68
+msgid "Next:"
+msgstr ""
+
+#: nextpage-link.php:125
+msgid "Table of contents"
+msgstr ""
+
+#. translators: 1: Page number
+#: nextpage-link.php:177
+msgid "Go to Page %d"
+msgstr ""
+
+#: nextpage-link.php:338
+msgid "Error: Template not found."
+msgstr ""
