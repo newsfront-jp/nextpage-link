@@ -70,6 +70,10 @@ It can be controlled by the following parameters.
 
 These parameters are passed to get_adjacent_post().
 
+== Screenshots ==
+
+1. sample view
+
 == Changelog ==
 
 = 1.0.1 =
