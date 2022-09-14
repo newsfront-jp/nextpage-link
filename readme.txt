@@ -3,7 +3,7 @@ Contributors: newsfront, nue2501
 Tags: pagination, nextpage, shortcode
 Requires at least: 5.7
 Tested up to: 6.0
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 Requires PHP: 5.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -75,6 +75,11 @@ These parameters are passed to get_adjacent_post().
 1. sample view
 
 == Changelog ==
+
+= 1.0.2 =
+Release Date: September 14, 2022
+
+* Notation adjustment
 
 = 1.0.1 =
 Release Date: September 12, 2022

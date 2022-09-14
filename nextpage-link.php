@@ -3,7 +3,7 @@
  * Plugin Name: Nextpage Link
  * Plugin URI: https://www.newsfront.jp/wordpress/plugins/nextpage-link/
  * Description: A link to the next page can be displayed using a shortcode.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: NewsFront Corporation
  * Author URI: https://www.newsfront.jp
  * License: GPLv2 or later
