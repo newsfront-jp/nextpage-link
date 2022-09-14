@@ -1,4 +1,4 @@
-# Copyright (C) 2022 Newsfront Corporation
+# Copyright (C) 2022 NewsFront Corporation
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
@@ -27,7 +27,7 @@ msgid "A link to the next page can be displayed using a shortcode."
 msgstr ""
 
 #. Author of the plugin
-msgid "Newsfront Corporation"
+msgid "NewsFront Corporation"
 msgstr ""
 
 #. Author URI of the plugin
