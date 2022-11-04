@@ -2,7 +2,7 @@
 Contributors: newsfront, nue2501
 Tags: pagination, nextpage, shortcode
 Requires at least: 5.7
-Tested up to: 6.0
+Tested up to: 6.1
 Stable tag: 1.0.2
 Requires PHP: 5.3
 License: GPLv2 or later
